@@ -14,7 +14,7 @@ The data sets must be downloaded from :
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Once the zip file downloaded, it is required to unzip the folder "UCI HAR Dataset" and place it directly on the working directory as well.
+Once the zip file is downloaded, it is required to unzip the folder "UCI HAR Dataset" and place it directly on the working directory as well.
 
 If necessary, modify the variables in the variables.R script containing the name of the original data sets folder, the character for the path separator and the file extension of the original data set files.
 
