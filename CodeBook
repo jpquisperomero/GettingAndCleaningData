@@ -98,3 +98,15 @@ fBodyBodyGyroJerkMag-std()
 fBodyBodyGyroJerkMag-meanFreq()
 
 TRANSFORMATIONS
+
+The transformations performed on the original data sets are:
+1. Loading the activities, subjects and measurements files from the test data sets, and combining the three data sets into one.
+2. Loading the activities, subjects and measurements files from the train data sets, and combining the three data sets into one.
+3. Combining the previously created test and train data sets into one.
+4. Adding the columns names to the data set created using the features file provided.
+5. Extracting only the columns of the data set corresponding the the activities, subjects and the measurements on the mean and standard deviation.
+6. Adding the activity labels to the data set, using the activity_labels file provided.
+7. Finally, creating and exporting a new data set containing the average of each measurement for each activity and each subject.
+
+The resulting file is called "new_data_set.txt".
+
