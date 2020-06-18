@@ -46,12 +46,11 @@ run_analysis <- function() {
         # Creating a new data set with the average of each variable for each subject and each
         # activity
         new_data_set <- new_data_set(data_set)
-        
+
         # Exporting the new data set created
         write.table(new_data_set,
                     "new_data_set.txt",
                     sep = ",",
                     row.names = FALSE,
                     quote = FALSE)
-
 }
