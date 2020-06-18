@@ -134,5 +134,3 @@ Subsequently, only the activities, subjects, and the measurements on the mean an
 Next, the names of the variables were modified in order to make them more descriptive and understandable.
 
 Finally, a new data set was created from the previous one. This new data set summarizes the previous data and contains the averages of the measurements on the mean and standard deviation for each activity and for each subject.
-
-'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
