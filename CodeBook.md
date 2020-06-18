@@ -1,9 +1,7 @@
-==================================================================
-
 CODE BOOK
+=========
 
 Human Activity Recognition Using Smartphones - Tidy Dataset
-
 ==================================================================
 
 The original data represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
@@ -124,7 +122,7 @@ Notes:
 - The angular velocity measurements are in radians/second.
 - The measurements are normalized and bounded within [-1,1], as in the original data sets.
 
-Measurements
+Measurements:
 ============
 
 The measurements for this data set come from the averages of the measurements on the mean and standard deviation for each activity and for each subject.
